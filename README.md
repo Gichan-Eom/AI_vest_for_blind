@@ -6,4 +6,4 @@ AIvestforblind는 시각장애인의 안전한 보행을 돕기 위한 AI기반 
 이후 Jetson Nano에서 위험도를 판단하여 사용자에게 진동 모듈과 음성 안내(TTS)를 통해 실시간으로 위험 정보를 전달합니다.
 
 # 기술 스택
-<img src="https://img.shields.io/badge/vue.js-4FC08D?style=for-the-badge&logo=html5&logoColor=white">
+<img src="https://img.shields.io/badge/vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white">
