@@ -18,7 +18,7 @@ AIvestforblind는 시각장애인의 안전한 보행을 돕기 위한 AI기반 
 <img width="1191" height="397" alt="123" src="https://github.com/user-attachments/assets/37bed224-cd79-47d7-9ac3-17393b585219" />
 
 # 🧱 시스템 아키텍처
-<img width="1329" height="523" alt="456" src="https://github.com/user-attachments/assets/6bdfc23f-6252-4491-b3ab-481ae3ee21b7" />
+<img width="1339" height="578" alt="1" src="https://github.com/user-attachments/assets/867b012d-31d3-47b4-8293-ed2f53cd93a9" />
 
 ## 🛖 화면 설계
 [Figma 화면 설계 바로가기](https://www.figma.com/make/VddXL27oS7JkBa57cg4lvt/Admin-site-for-obstacle-detection?fullscreen=1&t=ap33K5yk8CCTmbE4-1)
