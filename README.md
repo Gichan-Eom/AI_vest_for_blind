@@ -17,6 +17,9 @@ AIvestforblind는 시각장애인의 안전한 보행을 돕기 위한 AI기반 
 # 👥 요구사항 분석
 <img width="1191" height="397" alt="123" src="https://github.com/user-attachments/assets/37bed224-cd79-47d7-9ac3-17393b585219" />
 
+# 📜업무 흐름도
+<img width="992" height="378" alt="업무흐름도" src="https://github.com/user-attachments/assets/e3237dc7-1b86-46d7-95c0-1b48ffa95e7f" />
+
 # 💭시스템 개념도
 <img width="1294" height="700" alt="시스템 개념도" src="https://github.com/user-attachments/assets/63f58fd9-f2bd-452f-ac69-4169a4252f89" />
 
