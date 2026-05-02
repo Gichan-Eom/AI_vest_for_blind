@@ -20,7 +20,7 @@ AIvestforblind는 시각장애인의 안전한 보행을 돕기 위한 AI기반 
 # 💭시스템 개념도
 <img width="1294" height="700" alt="시스템 개념도" src="https://github.com/user-attachments/assets/63f58fd9-f2bd-452f-ac69-4169a4252f89" />
 
-# 🧱 시스템 아키텍처
+# 🧱 SW 아키텍처
 <img width="1339" height="578" alt="1" src="https://github.com/user-attachments/assets/867b012d-31d3-47b4-8293-ed2f53cd93a9" />
 
 # 💻 화면 설계
