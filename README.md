@@ -29,6 +29,9 @@ AIvestforblind는 시각장애인의 안전한 보행을 돕기 위한 AI기반 
 # 💻 화면 설계
 [Figma 화면 설계 바로가기](https://www.figma.com/make/VddXL27oS7JkBa57cg4lvt/Admin-site-for-obstacle-detection?fullscreen=1&t=ap33K5yk8CCTmbE4-1)
 
+# 💾DB설계-ERD
+<img width="838" height="521" alt="캡스톤2026ERD" src="https://github.com/user-attachments/assets/e4d90c74-70b4-44bd-840d-448e05e03338" />
+
 # 💡 예상 결과물
 <img width="812" height="468" alt="789" src="https://github.com/user-attachments/assets/eba14e01-f124-46dd-aeec-4cb02de748fc" />
 
