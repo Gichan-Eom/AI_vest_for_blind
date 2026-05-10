@@ -32,6 +32,9 @@ AIvestforblind는 시각장애인의 안전한 보행을 돕기 위한 AI기반 
 # 💾DB설계-ERD
 <img width="838" height="521" alt="캡스톤2026ERD" src="https://github.com/user-attachments/assets/e4d90c74-70b4-44bd-840d-448e05e03338" />
 
+# 💾DB설계-EER
+<img width="770" height="448" alt="캡디2026EER(0510)" src="https://github.com/user-attachments/assets/9676a087-efc3-487a-b4eb-3de5fd153f13" />
+
 # 💡 예상 결과물
 <img width="812" height="468" alt="789" src="https://github.com/user-attachments/assets/eba14e01-f124-46dd-aeec-4cb02de748fc" />
 
