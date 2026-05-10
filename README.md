@@ -30,13 +30,16 @@ AIvestforblind는 시각장애인의 안전한 보행을 돕기 위한 AI기반 
 [Figma 화면 설계 바로가기](https://www.figma.com/make/VddXL27oS7JkBa57cg4lvt/Admin-site-for-obstacle-detection?fullscreen=1&t=ap33K5yk8CCTmbE4-1)
 
 # 💾DB설계-ERD
-<img width="838" height="521" alt="캡스톤2026ERD" src="https://github.com/user-attachments/assets/e4d90c74-70b4-44bd-840d-448e05e03338" />
+<img width="1075" height="656" alt="erd" src="https://github.com/user-attachments/assets/e3800586-6df2-4547-a181-78e9b6438c7d" />
+
+# 💾DB설계-EER
+<img width="770" height="448" alt="캡디2026EER(0510)" src="https://github.com/user-attachments/assets/9f2dfb20-0a65-46b1-ab87-317492531e99" />
 
 # 💾DB설계-EER
 <img width="770" height="448" alt="캡디2026EER(0510)" src="https://github.com/user-attachments/assets/9676a087-efc3-487a-b4eb-3de5fd153f13" />
 
 # 💡 예상 결과물
-<img width="812" height="468" alt="789" src="https://github.com/user-attachments/assets/eba14e01-f124-46dd-aeec-4cb02de748fc" />
+[예상 결과물](https://github.com/Eoullim2026/AIvestforblind/blob/main/downloads/%EC%84%A4%EA%B3%84%EB%8F%84.pdf)
 
 # 🔗 Links
 🔍[관련 기술 및 서비스 조사](https://github.com/Eoullim2026/AIvestforblind/blob/main/downloads/%EA%B4%80%EB%A0%A8%EA%B8%B0%EC%88%A0%20%EB%B0%8F%20%EC%84%9C%EB%B9%84%EC%8A%A4%20%EC%A1%B0%EC%82%AC.pdf)
