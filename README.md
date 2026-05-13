@@ -35,9 +35,6 @@ AIvestforblind는 시각장애인의 안전한 보행을 돕기 위한 AI기반 
 # 💾DB설계-EER
 <img width="770" height="448" alt="캡디2026EER(0510)" src="https://github.com/user-attachments/assets/9f2dfb20-0a65-46b1-ab87-317492531e99" />
 
-# 💾DB설계-EER
-<img width="770" height="448" alt="캡디2026EER(0510)" src="https://github.com/user-attachments/assets/9676a087-efc3-487a-b4eb-3de5fd153f13" />
-
 # 💡 예상 결과물
 [예상 결과물](https://github.com/Eoullim2026/AIvestforblind/blob/main/downloads/%EC%84%A4%EA%B3%84%EB%8F%84.pdf)
 
