@@ -7,6 +7,7 @@ AIvestforblind는 시각장애인의 안전한 보행을 돕기 위한 AI기반 
 
 # 📝시연
 <img src="downloads/cam.gif" width="900">
+
 # ⚙ 기술 스택
 <p>
 <img src="https://img.shields.io/badge/vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white">
